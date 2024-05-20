@@ -1,0 +1,91 @@
+#profil {
+  background-color: #9dd3a1;
+}
+
+.navbar-brand {
+  font-family: "pacifico";
+}
+
+.jumbotron {
+  padding-top: 2rem;
+}
+
+.diary {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.diary h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#kolom {
+  text-align: justify;
+}
+
+.judulr {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.riwayat {
+  padding-top: 3rem;
+  background-color: #9dd3a1;
+  padding-bottom: 6rem;
+}
+
+.riwayat h3 {
+  font-family: "Times New Roman", Times, serif;
+  display: inline;
+  font-weight: bold;
+}
+
+#kolom2 {
+  padding-top: 1rem;
+}
+.karya .container {
+  background-color: #9dd3a1;
+  padding-bottom: 2rem;
+}
+
+.karya ul li {
+  text-align: justify;
+  padding-left: 2 em;
+}
+
+.card {
+  border: none;
+}
+
+.karya h3 {
+  padding-bottom: 1em;
+  font-family: "Times New Roman", Times, serif;
+  display: inline;
+  font-weight: bold;
+}
+
+.karya {
+  background-color: #9dd3a1;
+}
+
+#kontak h2 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 3rem;
+}
+.footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#web {
+  padding-top: 5rem;
+  padding-bottom: 7rem;
+  background-color: #9dd3a1;
+}
+
+.web h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 1em;
+}
